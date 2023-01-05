@@ -1,4 +1,4 @@
-<a><img align="center" src="https://github.com/COVISART/.github/blob/main/profile/header_covisart.png" alt="covisart" /></a>
+<a><img align="center" src="https://github.com/COVISART/.github/blob/main/profile/NGS-360-3-v2.png" alt="covisart" /></a>
 <h2 align="center"> Social Accounts</h2>
 <p align="center">
    <a href="https://twitter.com/covisart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="covisart" height="30" width="40" /></a>
